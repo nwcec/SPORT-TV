@@ -35,18 +35,18 @@ var options;
       name: 'القناة الثانية',
       description: 'BeinSport Premium 2',
       
-	  poster: 'https://2u.pw/TusAD',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844092249331.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/TusAD',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844092249331.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/TusAD'
+          src: 'https://up4net.com/uploads4/up4net.com163844092249331.png'
         }
       ]
     },
@@ -54,19 +54,19 @@ var options;
       name: 'القناة الثالثة',
       description: 'BeinSport Premium 3',
       
-	  poster: 'https://2u.pw/3PQwt',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844101196171.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
 
       thumbnail: [
         {
-          srcset: 'https://2u.pw/3PQwt',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844101196171.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/3PQwt'
+          src: 'https://up4net.com/uploads4/up4net.com163844101196171.png'
         }
       ]
     }, 
@@ -74,18 +74,18 @@ var options;
       name: 'القناة الرابعة',
       description: 'BeinSport 1',
       
-	  poster: 'https://2u.pw/TqDCv',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844105845411.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/TqDCv',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844105845411.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/TqDCv'
+          src: 'https://up4net.com/uploads4/up4net.com163844105845411.png'
         }
       ]
     },
@@ -93,18 +93,18 @@ var options;
       name: 'القناة الخامسة',
       description: 'BeinSport 2',
       
-	  poster: 'https://2u.pw/4cmZ1',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844110322131.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/4cmZ1',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844110322131.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/4cmZ1'
+          src: 'https://up4net.com/uploads4/up4net.com163844110322131.png'
         }
       ]
     },
@@ -112,18 +112,18 @@ var options;
       name: 'القناة السادسة',
       description: 'BeinSport 3',
       
-	  poster: 'https://2u.pw/3spgu',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844114995731.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/3spgu',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844114995731.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/3spgu'
+          src: 'https://up4net.com/uploads4/up4net.com163844114995731.png'
         }
       ]
     },
@@ -131,18 +131,18 @@ var options;
       name: 'القتاة السابعة',
       description: 'BeinSport 4',
       
-	  poster: 'https://2u.pw/OPIGl',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844119833741.png',
       sources: [
 		{ src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/OPIGl',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844119833741.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/OPIGl'
+          src: 'https://up4net.com/uploads4/up4net.com163844119833741.png'
         }
       ]
     },
@@ -150,18 +150,18 @@ var options;
       name: 'القناة الثامنة',
       description: 'BeinSport 5',
       
-	  poster: 'https://2u.pw/bXjmk',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844124614991.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/bXjmk',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844124614991.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/bXjmk'
+          src: 'https://up4net.com/uploads4/up4net.com163844124614991.png'
         }
       ]
     },
@@ -169,18 +169,18 @@ var options;
       name: 'القناة التاسعة',
       description: 'BeinSport 6',
       
-	  poster: 'https://2u.pw/Cd67A',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844128283641.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/Cd67A',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844128283641.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/Cd67A'
+          src: 'https://up4net.com/uploads4/up4net.com163844128283641.png'
         }
       ]
     },
@@ -188,18 +188,18 @@ var options;
       name: 'القناة العاشرة',
       description: 'BeinSport 7',
       
-	  poster: 'https://2u.pw/WCfQr',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844133322491.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/WCfQr',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844133322491.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/WCfQr'
+          src: 'https://up4net.com/uploads4/up4net.com163844133322491.png'
         }
       ]
     },
