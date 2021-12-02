@@ -14,7 +14,7 @@ var options;
 	  var player = videojs('pd-video', options);	
 	  player.playlist([{
       name: 'القناة الأولى',
-      description: 'BeinSport Premium 1',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 1',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844021973251.png',
       sources: [
@@ -33,7 +33,7 @@ var options;
     },
     {
       name: 'القناة الثانية',
-      description: 'BeinSport Premium 2',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 2',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844092249331.png',
       sources: [
@@ -52,7 +52,7 @@ var options;
     },
     {
       name: 'القناة الثالثة',
-      description: 'BeinSport Premium 3',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 3',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844101196171.png',
       sources: [
@@ -72,7 +72,7 @@ var options;
     }, 
 	{
       name: 'القناة الرابعة',
-      description: 'BeinSport 1',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 1',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844105845411.png',
       sources: [
@@ -91,7 +91,7 @@ var options;
     },
 	    {
       name: 'القناة الخامسة',
-      description: 'BeinSport 2',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 2',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844110322131.png',
       sources: [
@@ -110,7 +110,7 @@ var options;
     },
 	    {
       name: 'القناة السادسة',
-      description: 'BeinSport 3',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 3',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844114995731.png',
       sources: [
@@ -129,7 +129,7 @@ var options;
     },
 	    {
       name: 'القتاة السابعة',
-      description: 'BeinSport 4',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 4',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844119833741.png',
       sources: [
@@ -148,7 +148,7 @@ var options;
     },
   	    {
       name: 'القناة الثامنة',
-      description: 'BeinSport 5',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 5',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844124614991.png',
       sources: [
@@ -167,7 +167,7 @@ var options;
     },
 	{
       name: 'القناة التاسعة',
-      description: 'BeinSport 6',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 6',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844128283641.png',
       sources: [
@@ -186,7 +186,7 @@ var options;
     },
 	{
       name: 'القناة العاشرة',
-      description: 'BeinSport 7',
+      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 7',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844133322491.png',
       sources: [
