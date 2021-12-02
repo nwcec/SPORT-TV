@@ -16,18 +16,18 @@ var options;
       name: 'القناة الأولى',
       description: 'BeinSport Premium 1',
       
-	  poster: 'https://2u.pw/y5iec',
+	  poster: 'https://up4net.com/uploads4/up4net.com163844021973251.png',
       sources: [
         { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
-          srcset: 'https://2u.pw/y5iec',
+          srcset: 'https://up4net.com/uploads4/up4net.com163844021973251.png',
           type: 'image/jpeg',
           media: '(min-width: 400px;)'
         },
         {
-          src: 'https://2u.pw/y5iec'
+          src: 'https://up4net.com/uploads4/up4net.com163844021973251.png'
         }
       ]
     },
@@ -205,7 +205,7 @@ var options;
     },
 	]);
   player.playlistUi();
-	player.playlist.autoadvance(0);
+        player.playlist.autoadvance(0);
 	player.playlist.repeat(true);
 	player.controlBar.addChild('QualitySelector');
 	player.chromecast();
