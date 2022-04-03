@@ -14,7 +14,7 @@ var options;
 	  var player = videojs('pd-video', options);	
 	  player.playlist([{
       name: 'القناة الأولى',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝟭',
+      description: 'بي ان سبورت بريميوم 1',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844021973251.png',
       sources: [
@@ -33,7 +33,7 @@ var options;
     },
     {
       name: 'القناة الثانية',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝟮',
+      description: 'بي ان سبورت بريميوم 2',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844092249331.png',
       sources: [
@@ -52,7 +52,7 @@ var options;
     },
     {
       name: 'القناة الثالثة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝗣𝗥𝗘𝗠𝗜𝗨𝗠 𝟯',
+      description: 'بي ان سبورت بريميوم 3',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844101196171.png',
       sources: [
@@ -72,11 +72,11 @@ var options;
     }, 
 	{
       name: 'القناة الرابعة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟭',
+      description: 'بي ان سبورت 1',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844105845411.png',
       sources: [
-        { src: 'http://stream.shabakaty.com:6001/sport/ch4/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch5/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -91,11 +91,11 @@ var options;
     },
 	    {
       name: 'القناة الخامسة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟮',
+      description: 'بي ان سبورت 2',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844110322131.png',
       sources: [
-        { src: 'http://stream.shabakaty.com:6001/sport/ch5/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch6/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -110,11 +110,11 @@ var options;
     },
 	    {
       name: 'القناة السادسة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟯',
+      description: 'بي ان سبورت 3',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844114995731.png',
       sources: [
-        { src: 'http://stream.shabakaty.com:6001/sport/ch6/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch7/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -129,11 +129,11 @@ var options;
     },
 	    {
       name: 'القتاة السابعة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟰',
+      description: 'بي ان سبورت 4',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844119833741.png',
       sources: [
-		{ src: 'http://stream.shabakaty.com:6001/sport/ch7/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+		{ src: 'http://stream.shabakaty.com:6001/sport/ch8/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -148,11 +148,11 @@ var options;
     },
   	    {
       name: 'القناة الثامنة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟱',
+      description: 'بي ان سبورت 5',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844124614991.png',
       sources: [
-        { src: 'http://stream.shabakaty.com:6001/sport/ch8/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch9/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -167,11 +167,11 @@ var options;
     },
 	{
       name: 'القناة التاسعة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟲',
+      description: 'بي ان سبورت 6',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844128283641.png',
       sources: [
-        { src: 'http://stream.shabakaty.com:6001/sport/ch9/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch10/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -186,11 +186,11 @@ var options;
     },
 	{
       name: 'القناة العاشرة',
-      description: '𝗕𝗘𝗜𝗡𝗦𝗣𝗢𝗥𝗧 𝟳',
+      description: 'بي ان سبورت 7',
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844133322491.png',
       sources: [
-        { src: 'http://stream.shabakaty.com:6001/sport/ch10/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch11/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
