@@ -18,7 +18,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844021973251.png',
       sources: [
-        { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch1/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -37,7 +37,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844092249331.png',
       sources: [
-        { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch2/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -56,7 +56,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844101196171.png',
       sources: [
-        { src: 'https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch3/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
 
       thumbnail: [
@@ -76,7 +76,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844105845411.png',
       sources: [
-        { src: 'http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch4/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -95,7 +95,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844110322131.png',
       sources: [
-        { src: 'http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch5/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -114,7 +114,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844114995731.png',
       sources: [
-        { src: 'http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch6/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -133,7 +133,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844119833741.png',
       sources: [
-		{ src: 'http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+		{ src: 'http://stream.shabakaty.com:6001/sport/ch7/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -152,7 +152,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844124614991.png',
       sources: [
-        { src: 'http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch8/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -171,7 +171,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844128283641.png',
       sources: [
-        { src: 'http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch9/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
@@ -190,7 +190,7 @@ var options;
       
 	  poster: 'https://up4net.com/uploads4/up4net.com163844133322491.png',
       sources: [
-        { src: 'http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8', type: 'application/x-mpegurl', label: 'Live' },
+        { src: 'http://stream.shabakaty.com:6001/sport/ch10/adaptive.m3u8', type: 'application/x-mpegurl', label: 'Live' },
       ],
       thumbnail: [
         {
