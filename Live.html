@@ -1,0 +1,75 @@
+<html>
+<head>
+	<style>
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+      padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+#video-id{
+    box-shadow:0 0 20px 0px rgba(0,0,0,0.5);
+    width:930px;
+    height:523px;
+  }
+
+img {
+  width: 300px;
+}
+
+.video-modal-btn:hover{
+  cursor: pointer;
+}
+
+.video-js .vjs-big-play-button {
+  display:none !important;
+}
+</style>
+</head>
+<body>
+<script>
+window.location.protocol == "https:"?window.location.protocol = "http:":console.log('http:');
+</script>
+<script src="https://cdn.fluidplayer.com/v3/current/fluidplayer.min.js"></script>
+<center>
+  <div id="main" class="container">
+ <div class="vimeo-space" style="padding: 56.25% 0 0 0; position: relative;">
+<video id="video-id"  class="vjs-jat video-js vjs-default-skin" controls preload="auto" width="640" height="264" autoplay="false"><source src="http://stream.shabakaty.com:6001/sport/ch1/adaptive.m3u8" type="video/mp4" />
+</center>
+<script>
+    var myFP = fluidPlayer(
+        'video-id',	{
+	"layoutControls": {
+		"controlBar": {
+			"autoHideTimeout": 3,
+			"animated": true,
+			"autoHide": true
+		},
+		"htmlOnPauseBlock": {
+			"html": null ,
+			"height": "" ,
+			"width": null
+		},
+		"autoPlay": true,
+		"mute": true,
+		"allowTheatre": false,
+		"playPauseAnimation": true,
+		"playbackRateEnabled": false,
+		"allowDownload": false,
+		"playButtonShowing": true,
+		"fillToContainer": false,
+		"posterImage": "https://www.zyadda.com/wp-content/uploads/2019/12/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D9%88%D8%A7%D8%AA-bein-sport-%D8%A7%D9%84%D9%85%D8%B4%D9%81%D8%B1%D8%A9-%D9%88%D8%A7%D9%84%D8%BA%D9%8A%D8%B1-%D9%85%D8%B4%D9%81%D8%B1%D8%A9.jpg"
+	},
+})
+
+</script>
+</body>
+</html>
